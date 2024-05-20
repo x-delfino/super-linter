@@ -1,5 +1,23 @@
 # Changelog
 
+## [6.5.1](https://github.com/super-linter/super-linter/compare/v6.5.0...v6.5.1) (2024-05-20)
+
+
+### 🐛 Bugfixes
+
+* fix a shadowing setting in .golangci.yml ([#5654](https://github.com/super-linter/super-linter/issues/5654)) ([03b4aa0](https://github.com/super-linter/super-linter/commit/03b4aa0798b7e1e4b45d918d1577ca56f634a855))
+
+
+### ⬆️ Dependency updates
+
+* **docker:** bump dotnet/sdk ([#5662](https://github.com/super-linter/super-linter/issues/5662)) ([0f6e4fb](https://github.com/super-linter/super-linter/commit/0f6e4fbf0b1b893a7326911c5a0405ea60fe5068))
+* **npm:** bump react-intl from 6.6.6 to 6.6.8 in /dependencies ([#5665](https://github.com/super-linter/super-linter/issues/5665)) ([e3faa97](https://github.com/super-linter/super-linter/commit/e3faa97fecd9c4aeda996b8e023c14730e386835))
+
+
+### 🧰 Maintenance
+
+* move local action test to a dedicated job ([#5629](https://github.com/super-linter/super-linter/issues/5629)) ([90f3fef](https://github.com/super-linter/super-linter/commit/90f3fef29d4e463c132fabc263ce4583bf1d0426))
+
 ## [6.5.0](https://github.com/super-linter/super-linter/compare/v6.4.1...v6.5.0) (2024-05-15)
 
 
